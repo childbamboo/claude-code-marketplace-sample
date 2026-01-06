@@ -1,0 +1,9 @@
+{
+  "name": "spec",
+  "version": "1.0.0",
+  "description": "仕様書管理用ツール - 仕様書の作成、レビュー、更新",
+  "author": {
+    "name": "DevTools Team"
+  },
+  "keywords": ["spec", "specification", "documentation", "requirements"]
+}

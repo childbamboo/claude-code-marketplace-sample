@@ -1,0 +1,9 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "フロントエンド開発用ツール - コンポーネント作成、テスト生成、コードレビュー",
+  "author": {
+    "name": "DevTools Team"
+  },
+  "keywords": ["frontend", "react", "component", "testing"]
+}

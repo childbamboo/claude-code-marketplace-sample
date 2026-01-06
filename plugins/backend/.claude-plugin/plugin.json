@@ -1,0 +1,9 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "バックエンド開発用ツール - API作成、マイグレーション、セキュリティ監査",
+  "author": {
+    "name": "DevTools Team"
+  },
+  "keywords": ["backend", "api", "database", "security"]
+}

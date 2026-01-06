@@ -1,0 +1,9 @@
+{
+  "name": "general",
+  "version": "1.0.0",
+  "description": "汎用開発ツール - Context7、Serena、Cipher の MCP サーバー統合",
+  "author": {
+    "name": "DevTools Team"
+  },
+  "keywords": ["mcp", "context7", "serena", "cipher", "documentation", "code-analysis"]
+}

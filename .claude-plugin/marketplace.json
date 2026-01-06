@@ -1,0 +1,52 @@
+{
+  "name": "claude-code-marketplace-sample",
+  "metadata": {
+    "description": "社内向け Claude Code プラグインマーケットプレイス - 開発効率を向上させる各種ツールとエージェントを提供"
+  },
+  "owner": {
+    "name": "hadron",
+    "email": "contact@hadron.co.jp"
+  },
+  "plugins": [
+    {
+      "name": "backend",
+      "source": "./plugins/backend",
+      "description": "バックエンド開発用ツール - API作成、マイグレーション、セキュリティ監査",
+      "version": "1.0.0",
+      "author": {
+        "name": "DevTools Team"
+      },
+      "keywords": ["backend", "api", "database", "security"]
+    },
+    {
+      "name": "frontend",
+      "source": "./plugins/frontend",
+      "description": "フロントエンド開発用ツール - コンポーネント作成、テスト生成、コードレビュー",
+      "version": "1.0.0",
+      "author": {
+        "name": "DevTools Team"
+      },
+      "keywords": ["frontend", "react", "component", "testing"]
+    },
+    {
+      "name": "spec",
+      "source": "./plugins/spec",
+      "description": "仕様書管理用ツール - 仕様書の作成、レビュー、更新",
+      "version": "1.0.0",
+      "author": {
+        "name": "DevTools Team"
+      },
+      "keywords": ["spec", "specification", "documentation", "requirements"]
+    },
+    {
+      "name": "general",
+      "source": "./plugins/general",
+      "description": "汎用開発ツール - Context7、Serena、Cipher の MCP サーバー統合",
+      "version": "1.0.0",
+      "author": {
+        "name": "DevTools Team"
+      },
+      "keywords": ["mcp", "context7", "serena", "cipher", "documentation", "code-analysis"]
+    }
+  ]
+}
