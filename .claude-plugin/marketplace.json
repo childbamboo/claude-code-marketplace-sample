@@ -41,12 +41,12 @@
     {
       "name": "general",
       "source": "./plugins/general",
-      "description": "汎用開発ツール - Context7、Serena、Cipher の MCP サーバー統合",
-      "version": "1.0.0",
+      "description": "汎用開発ツール - MCP サーバー統合とドキュメント処理スキル",
+      "version": "1.1.0",
       "author": {
         "name": "DevTools Team"
       },
-      "keywords": ["mcp", "context7", "serena", "cipher", "documentation", "code-analysis"]
+      "keywords": ["mcp", "context7", "serena", "cipher", "documentation", "code-analysis", "xlsx", "docx", "pdf", "file-reader", "markdown-conversion"]
     }
   ]
 }
